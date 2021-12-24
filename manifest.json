@@ -1,0 +1,47 @@
+{
+  "format_version": 2,
+  "header": {
+    "description": "What better way to celebrate ItzLightyHD's 1K subscriber milestone by creating a resource pack based on the Compliance 32x resource pack.",
+    "min_engine_version": [
+      1,
+      18,
+      0
+    ],
+    "name": "Illuminate [32x]",
+    "uuid": "b7528b8f-b3ac-4bfa-8a5c-6176f432b908",
+    "version": [
+      1,
+      1,
+      0
+    ]
+  },
+  "metadata": {
+      "authors": [ "ItzLightyHD", "Compliance Team" ],
+      "license": "https://compliancepack.net/license",
+      "url": "https://compliancepack.net/"
+},
+  "modules": [
+    {
+      "description": "What better way to celebrate ItzLightyHD's 1K subscriber milestone by creating a resource pack based on the Compliance 32x resource pack.",
+      "type": "resources",
+      "uuid": "58c4755a-0e57-46fa-a201-18b222473f86",
+      "version": [
+        1,
+        0,
+        0
+      ]
+    }
+  ],
+  "subpacks": [
+    {
+      "folder_name": "swords",
+      "name": "Long Swords - For the fans of the long swords.",
+      "memory_tier": 1
+    },
+    {
+      "folder_name": "standard",
+      "name": "Standard - The standard version of the resource pack.",
+      "memory_tier": 1
+    }
+  ]
+}
